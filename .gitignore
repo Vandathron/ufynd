@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+Ufynd.Api/.DS_Store
+Ufynd.Data/.DS_Store
+.DS_Store
